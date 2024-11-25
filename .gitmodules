@@ -1,3 +1,6 @@
 [submodule "ECA_best_officer"]
 	path = ECA_best_officer
 	url = git@github.com:shrestharohit/ECA_best_officer.git
+[submodule "ECA_office_analysis"]
+	path = ECA_office_analysis
+	url = git@github.com:shrestharohit/ECA_office_analysis.git
