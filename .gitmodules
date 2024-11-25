@@ -4,3 +4,6 @@
 [submodule "ECA_office_analysis"]
 	path = ECA_office_analysis
 	url = git@github.com:shrestharohit/ECA_office_analysis.git
+[submodule "startup_success_predictor"]
+	path = startup_success_predictor
+	url = git@github.com:shrestharohit/startup_success_prediction.git
