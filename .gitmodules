@@ -7,3 +7,6 @@
 [submodule "startup_success_predictor"]
 	path = startup_success_predictor
 	url = git@github.com:shrestharohit/startup_success_prediction.git
+[submodule "UNIE_library"]
+	path = UNIE_library
+	url = git@github.com:shrestharohit/UNIE_library.git
