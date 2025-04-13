@@ -10,3 +10,6 @@
 [submodule "UNIE_library"]
 	path = UNIE_library
 	url = git@github.com:shrestharohit/UNIE_library.git
+[submodule "agricultural-uav"]
+	path = agricultural-uav
+	url = git@github.com:shrestharohit/agricultural-uav.git
