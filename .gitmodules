@@ -13,3 +13,6 @@
 [submodule "agricultural-uav"]
 	path = agricultural-uav
 	url = git@github.com:shrestharohit/agricultural-uav.git
+[submodule "quiz-challenge"]
+	path = quiz-challenge
+	url = git@github.com:shrestharohit/quiz-challenge.git
